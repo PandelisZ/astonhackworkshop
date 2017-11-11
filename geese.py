@@ -1,7 +1,7 @@
 
 
 def honk():
-	print "Honk"
+	print("Honk")
 	
 
 honk()
