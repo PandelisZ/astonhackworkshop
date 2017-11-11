@@ -1,8 +1,11 @@
+defaultHonks = 1
 
-
-def honk():
-	print("Honk")
+def honk(honks):
+	honk = 0
+	while(honk < honks):
+		print("Honk")
+		honk += defaultHonks
 	
 
-honk()
+honk(10)
 	
