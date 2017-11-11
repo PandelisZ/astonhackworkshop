@@ -7,5 +7,5 @@ def honk(honks):
 		honk += defaultHonks
 	
 
-honk(10)
+honk(20)
 	
